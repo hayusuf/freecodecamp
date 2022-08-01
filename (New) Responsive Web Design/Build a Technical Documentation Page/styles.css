@@ -1,0 +1,10 @@
+*{
+  position:absolute;
+  font-size:1px;
+}
+
+@media(width:100px){
+  *{
+    position:relative;
+  }
+}
